@@ -28,7 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-original-wordmark.svg" title="yii" alt="yii" width="40" height="40"/>&nbsp;
 
 ### ▶️ Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jesusfhohs&theme=monokai&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jesusfhohs&theme=hacker&hide_border=true&border_radius=8&date_format=j%20M%5B%20Y%5D)
 
 
 - 🔭 I’m currently working as Software Developer
